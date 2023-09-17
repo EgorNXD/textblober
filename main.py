@@ -4,7 +4,7 @@ translator = Translator()
 blob = input("Введите текст:")
 
 blob = translator.translate(blob, dest='en')
-blob = TextBlob(blob.text)
+blob =  TextBlob(blob.text)
 polarity = blob.polarity
 subjectivity = blob.subjectivity
 
