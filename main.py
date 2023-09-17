@@ -12,3 +12,4 @@ subjectivity = blob.subjectivity
 print(polarity)
 print(subjectivity)
 print(blob)
+
