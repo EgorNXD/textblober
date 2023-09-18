@@ -1,4 +1,5 @@
 #Egor Nechaev
+#Aleksey Polevik
 from textblob import TextBlob
 from googletrans import Translator
 translator = Translator()
