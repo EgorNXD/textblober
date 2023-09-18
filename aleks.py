@@ -16,13 +16,13 @@ for letter in prompt:
     if letter in vowels:
         count += 1
 
-g = b/sentences
+ASL = b/sentences
 
-h = count/sentences
+ASW = count/sentences
 
 print("Количество предложений в тексте:", b)
 print("Количество слов в строке:", word_count)
 print("Количество слогов в тексте:", count)
-print("Средняя длина текста в словах:", g)
-print("Средняя длина текста в слогах", h)
+print("Средняя длина текста в словах:", ASL)
+print("Средняя длина текста в слогах", ASW)
 
