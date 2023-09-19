@@ -1,5 +1,5 @@
-#Egor Nechaev
-#Aleksey Polevik
+#Egor Nechaev = 60
+#Aleksey Polevik = 40
 from textblob import TextBlob
 from googletrans import Translator
 translator = Translator()
